@@ -1,6 +1,6 @@
 # Setup
 
-- How to set up React, webpack, and Babel: https://www.valentinog.com/blog/react-webpack-babel/ (contains prop types which want be needed if Typescript is used)
+- How to set up React, webpack, and Babel: https://www.valentinog.com/blog/react-npmwebpack-babel/ (contains prop types which want be needed if Typescript is used)
 - React Redux Tutorial: https://www.valentinog.com/blog/redux/
 - React Hooks Tutorial for Beginners: https://www.valentinog.com/blog/hooks/
 - typescript?
@@ -15,3 +15,9 @@
 ### Note:
 
 Formating of readme: https://help.github.com/en/articles/basic-writing-and-formatting-syntax
+
+Run development env
+```npm start```
+
+Push to origin:
+```git push -u origin master```
